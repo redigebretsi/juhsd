@@ -14,8 +14,5 @@ Our  project is application of **CHEESE COIN SYSTEM** which is Innovation that u
 
 ## How to get started with the Project
  
-1.To run the program Java 7 or greater version must be installed in the computer <br/>  
-2.Download the Application file from Git repository (Here is the link : [Application](https://github.com/UJM-INFO/2020-net-i) <br/>  
-3.Run .jar file<br /> 
-4.In the User interface there are Specific buttons  which allows to see what  the application is performing. <br /> 
+ 1.To run the program Java 7 or greater version must be installed in the computer<br />2.Download the Application file from Git repository (Here is the link : [Application](https://github.com/UJM-INFO/2020-net-i)<br />  3.Run .jar file<br />4.In the User interface there are Specific buttons  which allows to see what  the application is performing. <br /> 
 > If you want to use two or more computers must join the same network.
