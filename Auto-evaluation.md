@@ -8,9 +8,9 @@ In our project all things  work perfectly as planned and we followed our protoco
 |Synchronize the memeber list          |OK|
 |Get the memeber list          |OK|
 |Listening to network          |OK|
-|Get Cheese from other members          |OK|
+|Get Cheese list from other members          |OK|
 |Create new  Cheese         |OK|
-|Validate a received Cheese        |OK|
+|Validate a Cheese        |OK|
 |Add the Cheese to the Chain          |OK|
 |drop a duplicated/non valid Cheese          |OK|
 |Public/Private Key          |OK|
